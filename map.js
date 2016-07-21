@@ -15,7 +15,7 @@ L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={
 /**********GEOLOCATION**********
 *******************************/
 $.get(
-	"https://ipinfo.io", 
+	"//ipinfo.io", 
 	function(response) {
 		countryCode = response.country;
 		latlng = response.loc; //latlng is returned in the format "lat,long" without a space after a comma. There must be a space to work correctly. 
