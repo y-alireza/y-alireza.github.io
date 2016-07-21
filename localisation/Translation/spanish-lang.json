@@ -1,0 +1,20 @@
+﻿var chosen_language = {
+	"HDI_label": "Índice de Desarrollo Humano",
+	"GNI_label": "Producto Nacional Bruto / cápita",
+	"life_exp_label": "Esperanza de vida",
+	"exp_school_label": "los años de escolarización",
+	"mean_school_label": "La media de años de escolarización",
+	"level_label": "nivel",
+	"years": "años",
+	"country_error_message": "En este momento, los datos en este país no está disponible.",
+	"hover_instruction": "Pase el ratón sobre un país.",
+	"HDI_rank_label": "índice de desarrollo humano rango",
+	"click_instruction": "Haga clic en una fila para ver las opciones de donación pertinentes",
+	"rank": "Rango",
+	"very_high": "Muy alto",
+	"high": "Alto",
+	"medium": "Medio",
+	"low": "Bajo",
+	"unavailable": "Indisponible",
+	"your_location": "Tu ubicación"
+}

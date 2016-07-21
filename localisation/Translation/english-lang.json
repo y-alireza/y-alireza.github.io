@@ -1,0 +1,20 @@
+var chosen_language = {
+	"HDI_label": "Human Development Index",
+	"GNI_label": "Gross National Income / capita",
+	"life_exp_label": "Life Expectancy",
+	"exp_school_label": "Expected years of schooling",
+	"mean_school_label": "Mean years of schooling",
+	"level_label": "level",
+	"years": "years",
+	"country_error_message": "Sorry, data on this country is not available.",
+	"hover_instruction": "Hover over a country.",
+	"HDI_rank_label": "Human Development Index rank",
+	"click_instruction": "Click on a row to see relevant donation options",
+	"rank": "Rank",
+	"very_high": "Very High",
+	"high": "High",
+	"medium": "Medium",
+	"low": "Low",
+	"unavailable": "Unavailable",
+	"your_location": "Your Location"
+}

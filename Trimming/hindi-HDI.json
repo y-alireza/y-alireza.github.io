@@ -1,0 +1,754 @@
+﻿{"countries":[
+  {
+    "name": "अफ़ग़ानिस्तान",
+    "english_name": "Afghanistan"
+  },
+  {
+    "name": "अल्बानिया",
+    "english_name": "Albania"
+  },
+  {
+    "name": "एलजीरिया",
+    "english_name": "Algeria"
+  },
+  {
+    "name": "अंडोरा",
+    "english_name": "Andorra"
+  },
+  {
+    "name": "अंगोला",
+    "english_name": "Angola"
+  },
+  {
+    "name": "अंतिगुया और बार्बूडा",
+    "english_name": "Antigua and Barbuda"
+  },
+  {
+    "name": "अर्जेंटीना",
+    "english_name": "Argentina"
+  },
+  {
+    "name": "आर्मीनिया",
+    "english_name": "Armenia"
+  },
+  {
+    "name": "ऑस्ट्रेलिया",
+    "english_name": "Australia"
+  },
+  {
+    "name": "ऑस्ट्रिया",
+    "english_name": "Austria"
+  },
+  {
+    "name": "आज़रबाइजान",
+    "english_name": "Azerbaijan"
+  },
+  {
+    "name": "बहामा",
+    "english_name": "Bahamas"
+  },
+  {
+    "name": "बहरीन",
+    "english_name": "Bahrain"
+  },
+  {
+    "name": "बांग्लादेश",
+    "english_name": "Bangladesh"
+  },
+  {
+    "name": "बारबाडोस",
+    "english_name": "Barbados"
+  },
+  {
+    "name": "बेलोरूस",
+    "english_name": "Belarus"
+  },
+  {
+    "name": "बेल्जियम",
+    "english_name": "Belgium"
+  },
+  {
+    "name": "बेलीज",
+    "english_name": "Belize"
+  },
+  {
+    "name": "बेनिन",
+    "english_name": "Benin"
+  },
+  {
+    "name": "भूटान",
+    "english_name": "Bhutan"
+  },
+  {
+    "name": "बोलीविया",
+    "english_name": "Bolivia"
+  },
+  {
+    "name": "बोस्निया और हर्जेगोविना",
+    "english_name": "Bosnia and Herzegovina"
+  },
+  {
+    "name": "बोत्सवाना",
+    "english_name": "Botswana"
+  },
+  {
+    "name": "ब्राज़िल",
+    "english_name": "Brazil"
+  },
+  {
+    "name": "ब्रुनेई दारुस्सलाम",
+    "english_name": "Brunei Darussalam"
+  },
+  {
+    "name": "बुल्गारिया",
+    "english_name": "Bulgaria"
+  },
+  {
+    "name": "बुर्किना फासो",
+    "english_name": "Burkina Faso"
+  },
+  {
+    "name": "बुस्र्न्दी",
+    "english_name": "Burundi"
+  },
+  {
+    "name": "केप वर्दे",
+    "english_name": "Cape Verde"
+  },
+  {
+    "name": "कंबोडिया",
+    "english_name": "Cambodia"
+  },
+  {
+    "name": "कैमरून",
+    "english_name": "Cameroon"
+  },
+  {
+    "name": "कनाडा",
+    "english_name": "Canada"
+  },
+  {
+    "name": "केंद्रीय अफ्रीकन गणराज्य",
+    "english_name": "Central African Republic"
+  },
+  {
+    "name": "काग़ज़ का टुकड़ा",
+    "english_name": "Chad"
+  },
+  {
+    "name": "चिली",
+    "english_name": "Chile"
+  },
+  {
+    "name": "चीन",
+    "english_name": "China"
+  },
+  {
+    "name": "कोलम्बिया",
+    "english_name": "Colombia"
+  },
+  {
+    "name": "कोमोरोस",
+    "english_name": "Comoros"
+  },
+  {
+    "name": "कांगो गणराज्य",
+    "english_name": "Republic of Congo"
+  },
+  {
+    "name": "डेमोक्रेटिक रीपब्लिक ऑफ द कॉंगो",
+    "english_name": "Democratic Republic of the Congo"
+  },
+  {
+    "name": "कोस्टा रिका",
+    "english_name": "Costa Rica"
+  },
+  {
+    "name": "सी ™ ते डिलवोइर",
+    "english_name": "C™te d'Ivoire"
+  },
+  {
+    "name": "क्रोएशिया",
+    "english_name": "Croatia"
+  },
+  {
+    "name": "क्यूबा",
+    "english_name": "Cuba"
+  },
+  {
+    "name": "साइप्रस",
+    "english_name": "Cyprus"
+  },
+  {
+    "name": "चेक गणतंत्र",
+    "english_name": "Czech Republic"
+  },
+  {
+    "name": "डेनमार्क",
+    "english_name": "Denmark"
+  },
+  {
+    "name": "जिबूती",
+    "english_name": "Djibouti"
+  },
+  {
+    "name": "डोमिनिका",
+    "english_name": "Dominica"
+  },
+  {
+    "name": "डोमिनिकन गणराज्य",
+    "english_name": "Dominican Republic"
+  },
+  {
+    "name": "इक्वेडोर",
+    "english_name": "Ecuador"
+  },
+  {
+    "name": "मिस्र",
+    "english_name": "Egypt"
+  },
+  {
+    "name": "एल साल्वाडोर",
+    "english_name": "El Salvador"
+  },
+  {
+    "name": "भूमध्यवर्ती गिनी",
+    "english_name": "Equatorial Guinea"
+  },
+  {
+    "name": "इरिट्रिया",
+    "english_name": "Eritrea"
+  },
+  {
+    "name": "एस्तोनिया",
+    "english_name": "Estonia"
+  },
+  {
+    "name": "इथियोपिया",
+    "english_name": "Ethiopia"
+  },
+  {
+    "name": "फ़िजी",
+    "english_name": "Fiji"
+  },
+  {
+    "name": "फिनलैंड",
+    "english_name": "Finland"
+  },
+  {
+    "name": "फ्रांस",
+    "english_name": "France"
+  },
+  {
+    "name": "गैबॉन",
+    "english_name": "Gabon"
+  },
+  {
+    "name": "गाम्बिया",
+    "english_name": "The Gambia"
+  },
+  {
+    "name": "जॉर्जिया",
+    "english_name": "Georgia"
+  },
+  {
+    "name": "जर्मनी",
+    "english_name": "Germany"
+  },
+  {
+    "name": "घाना",
+    "english_name": "Ghana"
+  },
+  {
+    "name": "यूनान",
+    "english_name": "Greece"
+  },
+  {
+    "name": "ग्रेनाडा",
+    "english_name": "Grenada"
+  },
+  {
+    "name": "ग्वाटेमाला",
+    "english_name": "Guatemala"
+  },
+  {
+    "name": "गिन्नी",
+    "english_name": "Guinea"
+  },
+  {
+    "name": "गिनी-बिसाऊ",
+    "english_name": "Guinea-Bissau"
+  },
+  {
+    "name": "गुयाना",
+    "english_name": "Guyana"
+  },
+  {
+    "name": "हैती",
+    "english_name": "Haiti"
+  },
+  {
+    "name": "होंडुरस",
+    "english_name": "Honduras"
+  },
+  {
+    "name": "हॉगकॉग",
+    "english_name": "Hong Kong"
+  },
+  {
+    "name": "हंगरी",
+    "english_name": "Hungary"
+  },
+  {
+    "name": "आइसलैंड",
+    "english_name": "Iceland"
+  },
+  {
+    "name": "इंडिया",
+    "english_name": "India"
+  },
+  {
+    "name": "इंडोनेशिया",
+    "english_name": "Indonesia"
+  },
+  {
+    "name": "ईरान",
+    "english_name": "Iran"
+  },
+  {
+    "name": "इराक",
+    "english_name": "Iraq"
+  },
+  {
+    "name": "आयरलैंड",
+    "english_name": "Ireland"
+  },
+  {
+    "name": "इजराइल",
+    "english_name": "Israel"
+  },
+  {
+    "name": "इटली",
+    "english_name": "Italy"
+  },
+  {
+    "name": "जमैका",
+    "english_name": "Jamaica"
+  },
+  {
+    "name": "जापान",
+    "english_name": "Japan"
+  },
+  {
+    "name": "जॉर्डन",
+    "english_name": "Jordan"
+  },
+  {
+    "name": "कजाखस्तान",
+    "english_name": "Kazakhstan"
+  },
+  {
+    "name": "केन्या",
+    "english_name": "Kenya"
+  },
+  {
+    "name": "किरिबाती",
+    "english_name": "Kiribati"
+  },
+  {
+    "name": "कोरिया गणराज्य",
+    "english_name": "Republic of Korea"
+  },
+  {
+    "name": "कुवैट",
+    "english_name": "Kuwait"
+  },
+  {
+    "name": "किर्गिज़स्तान",
+    "english_name": "Kyrgyzstan"
+  },
+  {
+    "name": "लाओ पीडीआर",
+    "english_name": "Lao PDR"
+  },
+  {
+    "name": "लातविया",
+    "english_name": "Latvia"
+  },
+  {
+    "name": "लेबनान",
+    "english_name": "Lebanon"
+  },
+  {
+    "name": "लिसोटो",
+    "english_name": "Lesotho"
+  },
+  {
+    "name": "लाइबेरिया",
+    "english_name": "Liberia"
+  },
+  {
+    "name": "लीबिया",
+    "english_name": "Libya"
+  },
+  {
+    "name": "लिकटेंस्टीन",
+    "english_name": "Liechtenstein"
+  },
+  {
+    "name": "लिथुआनिया",
+    "english_name": "Lithuania"
+  },
+  {
+    "name": "लक्जमबर्ग",
+    "english_name": "Luxembourg"
+  },
+  {
+    "name": "मेडागास्कर",
+    "english_name": "Madagascar"
+  },
+  {
+    "name": "मलावी",
+    "english_name": "Malawi"
+  },
+  {
+    "name": "मलेशिया",
+    "english_name": "Malaysia"
+  },
+  {
+    "name": "मालदीव",
+    "english_name": "Maldives"
+  },
+  {
+    "name": "माली",
+    "english_name": "Mali"
+  },
+  {
+    "name": "माल्टा",
+    "english_name": "Malta"
+  },
+  {
+    "name": "मॉरिटानिया",
+    "english_name": "Mauritania"
+  },
+  {
+    "name": "मॉरीशस",
+    "english_name": "Mauritius"
+  },
+  {
+    "name": "मेक्सिको",
+    "english_name": "Mexico"
+  },
+  {
+    "name": "Federated राज्यों के माइक्रोनेशिया",
+    "english_name": "Federated States of Micronesia"
+  },
+  {
+    "name": "मोलदोवा",
+    "english_name": "Moldova"
+  },
+  {
+    "name": "मंगोलिया",
+    "english_name": "Mongolia"
+  },
+  {
+    "name": "मोंटेनेग्रो",
+    "english_name": "Montenegro"
+  },
+  {
+    "name": "मोरक्को",
+    "english_name": "Morocco"
+  },
+  {
+    "name": "मोजाम्बिक",
+    "english_name": "Mozambique"
+  },
+  {
+    "name": "म्यांमार",
+    "english_name": "Myanmar"
+  },
+  {
+    "name": "नामीबिया",
+    "english_name": "Namibia"
+  },
+  {
+    "name": "नेपाल",
+    "english_name": "Nepal"
+  },
+  {
+    "name": "नीदरलैंड्स",
+    "english_name": "Netherlands"
+  },
+  {
+    "name": "न्यूजीलैंड",
+    "english_name": "New Zealand"
+  },
+  {
+    "name": "निकारागुआ",
+    "english_name": "Nicaragua"
+  },
+  {
+    "name": "नाइजर",
+    "english_name": "Niger"
+  },
+  {
+    "name": "नाइजीरिया में",
+    "english_name": "Nigeria"
+  },
+  {
+    "name": "नॉर्वे",
+    "english_name": "Norway"
+  },
+  {
+    "name": "ओमान",
+    "english_name": "Oman"
+  },
+  {
+    "name": "पाकिस्तान",
+    "english_name": "Pakistan"
+  },
+  {
+    "name": "पलाऊ",
+    "english_name": "Palau"
+  },
+  {
+    "name": "फिलिस्तीन",
+    "english_name": "Palestine"
+  },
+  {
+    "name": "पनामा",
+    "english_name": "Panama"
+  },
+  {
+    "name": "पापुआ न्यू गिनी",
+    "english_name": "Papua New Guinea"
+  },
+  {
+    "name": "परागुआ",
+    "english_name": "Paraguay"
+  },
+  {
+    "name": "पेरू",
+    "english_name": "Peru"
+  },
+  {
+    "name": "फिलीपींस",
+    "english_name": "Philippines"
+  },
+  {
+    "name": "पोलैंड",
+    "english_name": "Poland"
+  },
+  {
+    "name": "पुर्तगाल",
+    "english_name": "Portugal"
+  },
+  {
+    "name": "कतर",
+    "english_name": "Qatar"
+  },
+  {
+    "name": "रोमानिया",
+    "english_name": "Romania"
+  },
+  {
+    "name": "रूसी संघ",
+    "english_name": "Russian Federation"
+  },
+  {
+    "name": "रवांडा",
+    "english_name": "Rwanda"
+  },
+  {
+    "name": "संत किट्ट्स और नेविस",
+    "english_name": "Saint Kitts and Nevis"
+  },
+  {
+    "name": "सेंट लूसिया",
+    "english_name": "Saint Lucia"
+  },
+  {
+    "name": "संत विंसेंट अँड थे ग्रेनडीनेस",
+    "english_name": "Saint Vincent and the Grenadines"
+  },
+  {
+    "name": "समोआ",
+    "english_name": "Samoa"
+  },
+  {
+    "name": "एस <ओ TomŽ और प्रिंसिपे",
+    "english_name": "S‹o TomŽ and Principe"
+  },
+  {
+    "name": "सऊदी अरब",
+    "english_name": "Saudi Arabia"
+  },
+  {
+    "name": "सेनेगल",
+    "english_name": "Senegal"
+  },
+  {
+    "name": "सर्बिया",
+    "english_name": "Serbia"
+  },
+  {
+    "name": "सेशेल्स",
+    "english_name": "Seychelles"
+  },
+  {
+    "name": "सियरा लिओन",
+    "english_name": "Sierra Leone"
+  },
+  {
+    "name": "सिंगापुर",
+    "english_name": "Singapore"
+  },
+  {
+    "name": "स्लोवाकिया",
+    "english_name": "Slovakia"
+  },
+  {
+    "name": "स्लोवेनिया",
+    "english_name": "Slovenia"
+  },
+  {
+    "name": "सोलोमन द्वीप",
+    "english_name": "Solomon Islands"
+  },
+  {
+    "name": "दक्षिण अफ्रीका",
+    "english_name": "South Africa"
+  },
+  {
+    "name": "दक्षिण सूडान",
+    "english_name": "South Sudan"
+  },
+  {
+    "name": "स्पेन",
+    "english_name": "Spain"
+  },
+  {
+    "name": "श्री लंका",
+    "english_name": "Sri Lanka"
+  },
+  {
+    "name": "सूडान",
+    "english_name": "Sudan"
+  },
+  {
+    "name": "सूरीनाम",
+    "english_name": "Suriname"
+  },
+  {
+    "name": "स्वाजीलैंड",
+    "english_name": "Swaziland"
+  },
+  {
+    "name": "स्वीडन",
+    "english_name": "Sweden"
+  },
+  {
+    "name": "स्विट्जरलैंड",
+    "english_name": "Switzerland"
+  },
+  {
+    "name": "सीरिया",
+    "english_name": "Syria"
+  },
+  {
+    "name": "तजाकिस्तान",
+    "english_name": "Tajikistan"
+  },
+  {
+    "name": "तंजानिया",
+    "english_name": "Tanzania"
+  },
+  {
+    "name": "थाईलैंड",
+    "english_name": "Thailand"
+  },
+  {
+    "name": "मैसेडोनिया",
+    "english_name": "Macedonia"
+  },
+  {
+    "name": "पूर्वी तिमोर",
+    "english_name": "Timor-Leste"
+  },
+  {
+    "name": "जाना",
+    "english_name": "Togo"
+  },
+  {
+    "name": "टोंगा",
+    "english_name": "Tonga"
+  },
+  {
+    "name": "त्रिनिदाद और टोबैगो",
+    "english_name": "Trinidad and Tobago"
+  },
+  {
+    "name": "ट्यूनीशिया",
+    "english_name": "Tunisia"
+  },
+  {
+    "name": "तुर्की",
+    "english_name": "Turkey"
+  },
+  {
+    "name": "तुर्कमेनिस्तान",
+    "english_name": "Turkmenistan"
+  },
+  {
+    "name": "युगांडा",
+    "english_name": "Uganda"
+  },
+  {
+    "name": "यूक्रेन",
+    "english_name": "Ukraine"
+  },
+  {
+    "name": "संयुक्त अरब अमीरात",
+    "english_name": "United Arab Emirates"
+  },
+  {
+    "name": "यूनाइटेड किंगडम",
+    "english_name": "United Kingdom"
+  },
+  {
+    "name": "संयुक्त राज्य अमेरिका",
+    "english_name": "United States"
+  },
+  {
+    "name": "उरुग्वे",
+    "english_name": "Uruguay"
+  },
+  {
+    "name": "उज़्बेकिस्तान",
+    "english_name": "Uzbekistan"
+  },
+  {
+    "name": "वानुअतु",
+    "english_name": "Vanuatu"
+  },
+  {
+    "name": "वेनेजुएला",
+    "english_name": "Venezuela"
+  },
+  {
+    "name": "वियतनाम",
+    "english_name": "Vietnam"
+  },
+  {
+    "name": "यमन",
+    "english_name": "Yemen"
+  },
+  {
+    "name": "जाम्बिया",
+    "english_name": "Zambia"
+  },
+  {
+    "name": "जिम्बाब्वे",
+    "english_name": "Zimbabwe"
+  }
+]}

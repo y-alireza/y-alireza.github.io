@@ -1,0 +1,20 @@
+var chosen_language = {
+	"HDI_label": "人类发展指数",
+	"GNI_label": "国民总收入/人",
+	"life_exp_label": "预期寿命",
+	"exp_school_label": "预期受教育年限",
+	"mean_school_label": "平均受教育年限",
+	"level_label": "水平",
+	"years": "年份",
+	"country_error_message": "对不起，对这个国家的数据不可用。",
+	"hover_instruction": "将鼠标悬停在一个国家。",
+	"HDI_rank_label": "人类发展指数排名",
+	"click_instruction": "点击一个行查看相关捐赠选项",
+	"rank": "秩",
+	"very_high": "很高",
+	"high": "高",
+	"medium": "中",
+	"low": "低",
+	"unavailable": "不可用",
+	"your_location": "你的地点"
+}

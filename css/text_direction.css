@@ -1,0 +1,36 @@
+.info {
+	direction: rtl;
+}
+
+.leaflet-popup-content {
+	direction: rtl;
+	text-align: right;
+}
+
+.popupHeader {
+	float: right;
+}
+
+.popup {
+	direction: rtl;
+
+}
+
+.popupRow {
+	clear: right;
+}
+
+.popupValue {
+	text-align: left;
+	/*float: top;*/
+}
+
+.popupValue.GNI {
+	direction: ltr;
+	unicode-bidi: bidi-override;
+}
+
+.popup p {
+	text-align: right;
+}
+

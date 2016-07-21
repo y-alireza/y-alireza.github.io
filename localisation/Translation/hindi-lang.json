@@ -1,0 +1,20 @@
+﻿var chosen_language = {
+	"HDI_label": "मानव विकास सूची",
+	"GNI_label": "सकल राष्ट्रीय आय / व्यक्ति",
+	"life_exp_label": "जीवन प्रत्याशा",
+	"exp_school_label": "स्कूली शिक्षा का अपेक्षित साल",
+	"mean_school_label": "स्कूली शिक्षा का मतलब साल",
+	"level_label": "स्तर",
+	"years": "वर्षों",
+	"country_error_message": "क्षमा करें, इस देश पर डेटा उपलब्ध नहीं है।",
+	"hover_instruction": "एक देश पर होवर करें।",
+	"HDI_rank_label": "मानव विकास सूचकांक रैंक",
+	"click_instruction": "एक पंक्ति पर क्लिक करें प्रासंगिक दान विकल्प देखने के लिए",
+	"rank": "श्रेणी",
+	"very_high": "बहुत ऊँचा",
+	"high": "उच्च",
+	"medium": "मध्यम",
+	"low": "कम",
+	"unavailable": "अनुपलब्ध",
+	"your_location": "अनुपलब्ध"
+}

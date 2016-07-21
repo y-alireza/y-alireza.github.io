@@ -1,0 +1,20 @@
+﻿var chosen_language = {
+	"HDI_label": "مؤشر التنمية البشرية",
+	"GNI_label": "الدخل القومي الإجمالي / للفرد",
+	"life_exp_label": "متوسط العمر المتوقع",
+	"exp_school_label": "سنوات المتوقع من التعليم",
+	"mean_school_label": "متوسط سنوات الدراسة",
+	"level_label": "مستوى",
+	"years": "العام",
+	"country_error_message": "عذرا، بيانات عن هذا البلد غير متوفر.",
+	"hover_instruction": "تحوم فوق البلاد.",
+	"HDI_rank_label": "مؤشر التنمية البشرية رتبة",
+	"click_instruction": "انقر على صف لمشاهدة خيارات التبرع ذات الصلة",
+	"rank": "مرتبة",
+	"very_high": "عالي جدا",
+	"high": "عالي",
+	"medium": "متوسط",
+	"low": "منخفض",
+	"unavailable": "غير متوفره",
+	"your_location": "مكانك"
+}
